@@ -1,0 +1,68 @@
+.container{
+    background-color: #FFF9F4;  
+    height: 84vh;
+    padding: 100px;
+}
+
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header-list{
+    display: flex;
+    text-decoration: none !important;
+}
+
+.header-option{
+    text-decoration: none;
+    padding: 20px;
+}
+.home-body{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    text-align: left;
+    padding-top: 60px;
+}
+.home-heading{
+    font-size: 55px;
+    color: #FABE4C;
+    font-weight: bold;
+    padding-bottom: 10px;
+
+}
+
+.home-sub-heading{
+    font-size: 55px;
+    color: #363958;
+    font-weight: bold;
+    padding-bottom: 10px;
+
+}
+
+.content{
+    padding-bottom: 15px;
+    font-size: 16px;
+    color: #3E3E3E;
+}
+
+.buy-now{
+    background-color:   #3D4FF3;
+    display: flex;
+    padding: 20px;
+    border-radius: 10px;
+    width: 170px;
+    justify-content: center;
+}
+.buy-btn{
+    color: #ffffff;
+    font-size: 16px;
+}
+.shop-img{
+    padding-right: 10px;
+}
+.right-content{
+    width: 357px;
+}
